@@ -21,3 +21,5 @@ I'm originally from Guadalajara, Jalisco, Mexico 🇲🇽 and currently studying
 - Collaborating in fast-paced environments
 - Optimizing workflows and documenting code clearly
 
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=CamilaDiazG&mode=weekly)](https://git.io/streak-stats)
