@@ -7,7 +7,6 @@ I'm originally from Guadalajara, Jalisco, Mexico 🇲🇽 and currently studying
 ## 💻 Technologies I'm Learning
 
 ### Languages
-- Java
 - Python
 - C++
 
